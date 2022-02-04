@@ -26,5 +26,5 @@ function draw() {
     background("#5ac3e0");
     textSize(difference);
     fill("#b8f0ff");
-    text("Anya", 50, 400);
+    text("Anya", 30, 250);
 }
